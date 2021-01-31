@@ -1,0 +1,146 @@
+body{
+	background-image:url("https://www.wallpapertip.com/wmimgs/56-567419_1920x1080-wallpaper-black-blue-gradient-linear-medium-blue.jpg");
+	background-size:cover;
+}
+.banner{
+	text-align:center;
+	 
+  height: 300px;
+  width: 100%;	
+}
+
+h1{
+	color:white;
+  font-size:100px;
+  font-weight:20px;
+  position: middle;
+	border-style:solid;
+	border-color:white;
+	border-width:3px;
+	position:relative;
+	padding-top:25px;
+	padding-bottom:50px;
+	padding-left:5px;
+	padding-right:5px;
+  top: 50px;
+  width: 1000px;
+  margin: -40px auto;
+  border:solid white 5px
+}
+
+.me{
+	color:white;
+	font-size:200%;
+	padding-bottom:50px;
+}
+
+.code{
+	border-radius: 1050px; 
+	top: 50%;
+  padding-left:75px;
+  padding-right:75px;
+  padding-top:135px;
+  padding-bottom:-240px;
+  margin-top: 90px;
+  margin-left:50px;
+  margin-bottom: 20 px;
+  border:dashed 10px;
+  border-color:salmon;
+  text-align:center;
+  height:200px;
+  width:200px;	
+}
+
+.computer{
+	border-radius: 1050px; 
+	top: 50%;
+  padding-left:75px;
+  padding-right:75px;
+  padding-top:135px;
+  padding-bottom:-240px;
+  margin-top: -373px;
+  margin-left:500px;
+  margin-right:550px;
+  margin-bottom: 20 px;
+  border:dashed 10px;
+  border-color:salmon;
+  text-align:center;
+  height:200px;
+  width:200px;	
+}
+
+.robots{
+	border-radius: 1050px; 
+	top: 50%;
+  padding-left:75px;
+  padding-right:75px;
+  padding-top:135px;
+  padding-bottom:-240px;
+  margin-top: -373px;
+  margin-left:950px;
+  margin-bottom: 20 px;
+  border:dashed 10px;
+  border-color:salmon;
+  text-align:center;
+  height:200px;
+  width:200px;
+}
+
+.info{
+	border-radius: 1050px; 
+	top: 50%;
+  padding-left:75px;
+  padding-right:75px;
+  padding-top:135px;
+  padding-bottom:-240px;
+  margin-top: 10px;
+  margin-left:275px;
+  margin-bottom: 5px;
+  border:dashed 10px;
+  border-color:salmon;
+  text-align:center;
+  height:200px;
+  width:200px;
+}
+
+.sources{
+	border-radius: 1050px; 
+	top: 50%;
+  padding-left:75px;
+  padding-right:75px;
+  padding-top:135px;
+  padding-bottom:-240px;
+  margin-top:-361px;
+  margin-left:740px;
+  margin-bottom: 5px;
+  border:dashed 10px;
+  border-color:salmon;
+  text-align:center;
+  height:200px;
+  width:200px;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color:white ;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+

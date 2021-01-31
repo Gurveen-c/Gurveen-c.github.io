@@ -1,0 +1,63 @@
+body{
+	background-image:url("https://www.wallpapertip.com/wmimgs/56-567419_1920x1080-wallpaper-black-blue-gradient-linear-medium-blue.jpg");
+	background-size:cover;
+	color:white;
+}
+
+.banner{
+	text-align:center;
+  height: 300px;
+  width: 100%;	
+}
+.title{
+	color:white;
+  font-size:80px;
+  font-weight:20px;
+  position: middle;
+	border-style:solid;
+	border-color:white;
+	border-width:3px;
+	position:relative;
+	padding-top:25px;
+	padding-bottom:25px;
+	padding-left:5px;
+	padding-right:5px;
+  top: 50px;
+  width: 1000px;
+  margin: 0 auto;
+  border:solid white 5px;
+  text-align:center;
+}
+
+.q1{
+	text-align:center;	
+	
+}
+h2{
+	font-size:30px;
+}
+p{
+	font-size:18px;
+	font-family: 'Bodoni Moda', serif;
+	font-weight:20px;
+
+}
+.q2{
+	padding-top:20px;
+	text-align:center;
+}
+
+.q3{
+	padding-top:20px;
+	text-align:center;
+}
+.q4{
+	padding-top:20px;
+	text-align:center;
+}
+
+.q5{
+	padding-top:20px;
+	text-align:center;
+}
+
